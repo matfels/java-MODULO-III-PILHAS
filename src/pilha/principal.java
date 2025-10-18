@@ -34,7 +34,9 @@ public class principal {
 		//fibonacci.fibIte();
 		//SelectionSort.sekectSort();
 //		System.out.println(Buscasequenciall.buscaSequencial());
-		testeseaprendi.chamateste();
+//		testeseaprendi.chamateste();
+
+		System.out.println(buscabinaria.binaria());
 	}
 	
 
